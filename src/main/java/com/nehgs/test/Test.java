@@ -9,10 +9,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Neha\\Downloads\\chromedriver.exe");
-		WebDriver driver =new ChromeDriver();
-		driver.get("http://www.google.com");
-		driver.quit();
+		System.out.println("Saurabh");
 		
 	
 
