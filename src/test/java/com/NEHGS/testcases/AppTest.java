@@ -14,5 +14,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
        System.out.println("Test");
+       System.out.println("Not a master branch");
     }
 }
